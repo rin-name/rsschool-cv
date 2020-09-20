@@ -1,0 +1,19 @@
+.name {
+    color: rgba(123, 20, 226, 0.86);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.paragraph {
+    color: rgba(219, 34, 114, 0.86);
+    font-size: 24px;
+     font-weight: bold;
+ }
+.photo img{
+    float: left;
+    height: 160px;
+    margin: 70px;
+    -webkit-border-radius: 400px;
+    border-radius: 400px;
+    text-align: center;
+}
