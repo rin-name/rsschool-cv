@@ -12,7 +12,7 @@
  ##### Contact Information 
   - Republic of Belarus, Minsk
   - marinka_kostyuk@inbox.ru 
-  - +375(29)198-61-48
+  - +375 (29) 198-61-48
  
  ##### Summary   
  I am front-end begginer with deep interest to a new profession. 
