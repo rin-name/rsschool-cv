@@ -1,5 +1,5 @@
 # Kostyuk Marina 
- ### Junior Front-end Developer 
+ #### Junior Front-end Developer 
  ##### My code example: 
  ```````
      function removeChar(str){
